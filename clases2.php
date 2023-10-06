@@ -1,3 +1,4 @@
+
 <?php
 class Docentes{
     private string $tipo_documento;
